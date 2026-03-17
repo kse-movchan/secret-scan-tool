@@ -8,6 +8,7 @@ Analyze and understand the source code of a custom secret detection tool. Create
 
 ## Prerequisites
 
+
 Before pushing code that contains test secrets (e.g., `test_secrets.txt`, `tests/test_e2e.py`), you must disable GitHub's built-in **push protection** at the organization level. Otherwise GitHub will reject the push with `GH013: Repository rule violations`.
 
 1. **Disable at organization level:** Go to **https://github.com/organizations/\<your-org\>/settings/security_products** and disable **Secret scanning** → **Push protection**.
