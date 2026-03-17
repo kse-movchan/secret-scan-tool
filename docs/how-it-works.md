@@ -1,4 +1,4 @@
-# How Secret Detection Works
+# How Secret Detection Works 
 
 `secret_detect.py` is a standalone secret detection tool that scans files and directories for hardcoded secrets such as API keys, tokens, and private keys.
 
