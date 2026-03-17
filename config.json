@@ -1,5 +1,8 @@
 {
   "allowlist_paths": [
+    "tests/.*",
+    "test_secrets.txt",
+    "venv/.*",
     "\\.git/",
     "node_modules/",
     "vendor/",
